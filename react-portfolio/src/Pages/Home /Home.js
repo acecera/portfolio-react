@@ -5,6 +5,8 @@ class Home extends Component {
     render() {
         return (
             <div className="home">
+                <Navbar />
+                <Jumbotron />
             </div>
         );
     }
