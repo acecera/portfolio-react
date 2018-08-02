@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/acecera/portfolio-react/issues"
   },
-  "homepage": "https://github.com/acecera/portfolio-react#readme"
+  "homepage": "https://github.com/acecera/portfolio-react#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
