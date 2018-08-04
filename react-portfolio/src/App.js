@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
 
 import './App.css';
+import Jumbotron from "./Components/Jumbotron/Jumbotron";
+import Navbar from './Components/Navbar/Navbar';
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <div>
-          <h1>Hello World!</h1>
-        </div>
+          <Navbar />
+          <Jumbotron />
+        
       </div>
     );
   }
