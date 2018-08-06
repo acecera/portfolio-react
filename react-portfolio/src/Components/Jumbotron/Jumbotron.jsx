@@ -1,5 +1,5 @@
 import React from "react";
-import mountainImage from "../../Images/Mountain.png";
+import mountainImage from "../../Images/Mountain.jpeg";
 import classes from "./Jumbotron.css";
 
 const Jumbotron = (props) => {
